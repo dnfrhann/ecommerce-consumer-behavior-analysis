@@ -18,7 +18,17 @@ To showcase a complete data analytics workflow, this project is divided into 4 m
 
 ## 📊 Key Insights & Business Recommendations
 
-* **Insight 1:**
-* **Recommendation:** 
+### 1. Sales & Product Performance
+*   **Insight:** **Sports** emerged as the primary revenue driver, contributing the highest total sales of **$3.19M**, closely followed by other categories. On the other hand, **Beauty** generated the lowest revenue, yielding **$3.06M**. The narrow margin across all categories indicates a highly balanced product distribution profile in this market.
+*   **Recommendation:** Since the revenue gap between the highest and lowest categories is minimal, the marketing team should focus on cross-selling strategies. Implement promotional bundles, such as offering a discount on underperforming Beauty products when a customer purchases high-demand Sports gear, to lift overall profit margins.
+
+### 2. Customer Segmentation & Generative Behavior
+*   **Insight:** **Millennials (Aged 26-40)** represent the most lucrative customer segment, dominating the consumer base by contributing **28.58%** of total transactions and generating **$7.19M** in revenue. Geographically, **France** is the top-performing market, leading all 10 analyzed countries with **$2.55M** in total sales.
+*   **Recommendation:** Launch a loyalty reward program specifically designed to appeal to Millennials, as they hold the highest purchasing power. Concurrently, scale up localized digital advertising campaigns in France to solidify market leadership, while investigating localized pricing hooks for lower-performing regions.
+
+### 3. Payment Method Optimization
+*   **Insight:** Purchasing behaviors vary distinctly across different generations. **Gen Z** buyers predominantly utilize digital payment gateways like **Credit Card and PayPal**. Conversely, older demographics (**Boomers**) rely heavily on bank-direct options such as **Net Banking and UPI**.
+*   **Recommendation:** Dynamic checkout optimization is required. The e-commerce platform should display preferred payment gateways at the top of the payment screen based on the user's logged-in age profile (e.g., highlighting PayPal for Gen Z and prioritizing Net Banking/UPI options for Boomers) to reduce friction and minimize cart abandonment rates.
 
 ## 📈 Dashboard Preview
+![Dashboard Preview](dashboard/dashboard_preview.png)
